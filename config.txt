@@ -1,0 +1,46 @@
+﻿token = NDgyMjgxMjU4OTE5OTE5NjQ0.D39JUA.5M44ue3qljNguUOdp6jAo0775QM
+owner = 478291914106339332
+prefix = "1"
+game = "Hix - 1play"
+status = idle
+songinstatus = false
+altprefix = "NONE"
+
+success = "🎶"
+warning = "💡"
+error = "🚫"
+loading = "⌚"
+searching = "🔎"
+
+help = "help"
+
+
+
+npimages = false
+
+
+
+stayinchannel = false
+
+
+
+
+maxtime = 0
+
+
+
+
+playlistsfolder = Playlists
+
+
+
+updatealerts = true
+
+
+
+
+lyrics.default = "A-Z Lyrics"
+
+
+
+eval = false
